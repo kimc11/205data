@@ -1,0 +1,51 @@
+state_abb,state_name,population_2022,avg_household_income_2022,median_household_income_2022,area_sq_mile,state_capital,gdp_2022,unemployment_2022_pct,top_industry_1,top_industry_2,top_industry_3,statehood_yr
+AL,Alabama,5073903.00,78639.09,59609.00,50647.13,Montgomery,277817000000.00,2.60,Manufacturing,Real estate,Professional and business services,1819
+AK,Alaska,733276.00,105162.63,86370.00,571022.38,Juneau,63618000000.00,4.00,"Mining, quarrying, and oil and gas extraction",Transportation and warehousing,Real estate,1959
+AZ,Arizona,7365684.00,100890.13,72581.00,113653.42,Phoenix,458950000000.00,3.80,Real estate,Professional and business services,"Education, health care, and social services",1912
+AR,Arkansas,3046404.00,77114.15,56335.00,51992.85,Little Rock,165221000000.00,3.30,Manufacturing,Professional and business services,Real estate,1836
+CA,California,39240000.00,84376.00,85300.00,155812000.00,Sacramento,2890000000000.00,4.10,Tourism,Agriculture,Entertainment,1850
+CO,Colorado,5812000.00,117508.00,87598.00,103601000.00,Denver,385830000000.00,3.30,Agriculture,Mining,Manufacturing,1876
+CT,Connecticut,3606000.00,130601.00,90213.00,5018000.00,Hartford,276670000000.00,4.00,Finance and Insurance,Real Estate,Manufacturing,1788
+DE,Delaware,1019459.00,80750.00,79325.00,1982.00,Dover,65000000000.00,4.50,Finance and Insurance,Manufactoring,Fishing,1787
+FL,Florida,22240000.00,74580.00,65370.00,65757.00,Tallahassee,1389069700000.00,2.70,Tourism and Hospitality,Real Estate,Aviation & Aerospace,1845
+GA,Georgia,10913150.00,71355.00,67730.00,57919.00,Atlanta,591260000000.00,3.00,Aerospace,Agriculture,Automotive,1788
+HI,Hawaii,1439399.00,122902.00,94814.00,10931.00,Honolulu,98218800000.00,3.70,Tourism,Agriculture,construction industries,1959
+ID,Idaho,1938996.00,72580.00,70214.00,82751.00,Boise,84000000000.00,2.70,Energy,Manufacturing,Agriculture,1890
+IL,Illinois,12810000.00,90861.00,72205.00,57918.00,Chicago,797970000000.00,4.70,Agriculture,Manufacturing,Services,1818
+IN,Indiana,6790000.00,62743.00,79243.00,36418.00,Indianapolis,352960000000.00,2.20,Manufacturing ,Agriculture,Transportation,1816
+IA,Iowa,3190000.00,65600.00,76320.00,56273.00,Des Moines,177090000000.00,2.70,Agriculture,Manufacturing,Renewable Energies,1846
+KS,Kansas,2937150.00,94263.00,73040.00,82278.00,Topeka,164940000000.00,2.70,"Corn, Wheat, & Soybean",Aircraft Part Sales,Farm Equipment Sales,1861
+KY,Kentucky,4511563.00,83093.00,55573.00,39480.90,Frankfurt,201380000000.00,3.90,Manufacturing,Agriculture,Coal,1792
+LA,Louisiana,4588023.00,83169.00,52087.00,43210.23,Baton Rouge,217160000000.00,3.70,Chemical,Petroleum ,Coal,1812
+ME,Maine,1354200.00,56000.00,57918.00,35385.00,Augusta,65000000000.00,4.20,Tourism,Agriculture,Manufacturing,1820
+MD,Maryland,6177600.00,78500.00,89571.00,12406.00,Annapolis,405000000000.00,3.80,Aerospace,Biotechnology,Services,1788
+MA,Massachusetts,7033500.00,72800.00,85843.00,10565.00,Boston,600000000000.00,3.50,Technology,Healthcare,Finance,1788
+MI,Michigan,10033281.00,92835.00,68505.00,96716.00,Lansing,539900000000.00,4.30,Agriculture,Tourism,Manufacturing,1837
+MN,Minnesota,5714300.00,110714.08,90390.00,86939.00,Saint Paul,446499500000.00,2.70,Agriculture,Manufacturing,Mining,1858
+MS,Mississipi,2938928.00,67660.16,48610.00,48432.00,Jackson,138739700000.00,3.90,Agriculture,Manufacturing,Mining,1817
+MO,Missouri,6177168.00,87756.46,71520.00,69707.00,Jefferson City,389931200000.00,2.50,Agriculture,Aerospace,Manufacturing,1821
+MT,Montana,1122878.00,91440.59,72980.00,147040.00,Helena,65014500000.00,2.60,Agriculture,Healthcare,Energy,1889
+NE,Nebraska,1967000.00,95547.00,71722.00,76796.00,Lincoln,161702000000.00,2.70,Manufacturing,Agriculture,Finance,1867
+NV,Nevada,3178000.00,72330.00,71646.00,109831.00,Carson City,187230000000.00,5.50,Real Estate,Accommodation and Food Services,Healthcare,1864
+NH,New Hampshire,1395000.00,118118.00,90845.00,8951.00,Concord,90150000000.00,2.90,Real Estate,Manufacturing,Healthcare,1788
+NJ,New Jersey,9260000.00,135170.00,92340.00,7352.90,Trenton,581700000000.00,3.30,Life Sciences,Technology,Clean Energy ,1787
+NM,New Mexico,2110000.00,81035.00,56420.00,121697.00,Santa Fe,94660000000.00,3.50,Energy,Aerospace,Defense,1912
+NY,New York,19673200.00,80751.00,75910.00,54556.00,Albany,2053179700000.00,4.30,Financial Services,Entertainment,Retail,1788
+NC,North Carolina,10695965.00,93244.59,65070.00,53819.00,Raleigh,730072400000.00,3.70,Aerospace,Automotive,Biotechnology,1789
+ND,North Dakota,770026.00,63837.00,61354.00,70698.00,Bismarck,60000000000.00,2.30,Agriculture,Energy,Technology,1889
+OH,Ohio,11760000.00,90958.00,66990.00,40848.00,Columbus,822670000000.00,4.10,Manufacturing,Agriculture,Automotive,1803
+OK,Oklahoma,4019271.00,84402.00,61364.00,69895.00,Oklahoma City,240534300000.00,3.20,Oil Drilling,Gasoline Wholesaling,Hospitals,1907
+OR,Oregon,4240000.00,76632.00,86780.00,95962.00,Salem,234810000000.00,4.80,Health Insurance,Hospitals,Manufacturing,1859
+PA,Pennsylvania,12972091.00,104608.43,72210.00,46054.00,Harrisburg,923088800000.00,4.40,Food Processing,Industrial Machinery,Fabricated Metals,1787
+RI,Rhode Island,1093734.00,81370.00,80650.00,1214.00,Providence,55410000000.00,3.20,Agriculture,Fishing,Manufacturing,1790
+SC,South Carolina,5282955.00,88909.64,61770.00,32020.00,Columbia,295880500000.00,3.20,Agriculture,Tourism,Automotive,1788
+SD,South Dakota,909869.00,90706.00,69457.00,75789.60,Pierre,67570700000.00,2.20,Agriculture,Mining and Power,Manufacturing,1889
+TN,Tennessee,7048976.00,89627.00,64035.00,41227.10,Nashville,367780000000.00,3.50,Healthcare,Retail,Manufacturing,1796
+TX,Texas,30029572.00,102197.00,73035.00,268193.90,Austin,2355959700000.00,3.80,Mining,Quarrying,Oil and Gas,1845
+UT,Utah,3381236.00,111416.00,86833.00,84899.00,Salt Lake City,213900000000.00,2.30,Financial,Transportation,Utililties,1896
+VT,Vermont,646000.00,72190.00,72190.00,9215.40,Montpelier,31400000000.00,2.60,Agriculture,Forestry,Tourism,1791
+VA,Virginia,8670000.00,85170.00,85170.00,39471.70,Richmond,512950000000.00,2.90,Service,Technology,Agriculture,1788
+WA,Washington,7900000.00,89430.00,89430.00,71362.00,Olympia,641000000000.00,4.20,Food and Agriculture,Aerospace,Construction,1889
+WV,West Virginia,1774035.00,75575.00,52460.00,24038.00,Charleston,71700000000.00,4.10,Mining,Manufacturing,Agriculture,1863
+WI,Wisonnsin ,5890000.00,94995.00,73330.00,65498.00,Madison,311700000000.00,3.00,Manufacturing,Agriculture,Healthcare,1848
+WY,Wyoming,581629.00,94900.00,72495.00,97813.00,Cheyenne,36350000000.00,3.90,Mining,Real estate,Rental/Leasing,1890
